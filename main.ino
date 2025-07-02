@@ -17,12 +17,12 @@ FirebaseAuth auth;
 FirebaseConfig config;
 bool signupOK = false;
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "ELITIAB5"
-#define WIFI_PASSWORD "l@b3l1tiA"
+#define WIFI_SSID "WIFI_USERNAME"
+#define WIFI_PASSWORD "WIFI_PASSWORD"
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyBm3U_tAy-7beEQjQGnyeCCvRVYq_Qn07o"
+#define API_KEY "API KEY"
 /* 3. Define the RTDB URL */
-#define DATABASE_URL "https://fir-rtd-4757a-default-rtdb.firebaseio.com/"
+#define DATABASE_URL "DATABASE URL"
 // Function List
 
 
